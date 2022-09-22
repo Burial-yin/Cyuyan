@@ -1,3 +1,0 @@
-﻿  course.cpp
-D:\office\VS\VS2022\File\Course_9_22\Course_9_22\course.cpp(136): warning C4715: “DelCourse”: 不是所有的控件路径都返回值
-  Course_9_22.vcxproj -> D:\office\VS\VS2022\File\Course_9_22\x64\Debug\Course_9_22.exe
